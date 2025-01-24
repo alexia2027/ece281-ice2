@@ -18,3 +18,10 @@ Then it **elaborates** the *any* entity with the name `*_tb`. In this case, that
 Finally, the workflow **runs** the simulation. If successful then it will quietly exit with a `0` code.
 If any of the `assert` statements fail **with** `severity failure` then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
+
+
+Link to Video:  https://teams.microsoft.com/l/message/48:notes/1737689900307?context=%7B%22contextType%22%3A%22chat%22%7D
+
+
+
+
